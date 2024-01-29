@@ -1,1 +1,6 @@
-
+git status
+git add .
+git log --oneline 
+git add homepage.html
+git checkout "ID"
+git checkout master
