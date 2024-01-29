@@ -1,0 +1,14 @@
+git checkout -b dev-1
+git checkout master
+git checkout -b dev-2
+git checkout dev-2 {Checkout to dev-2 branch}
+git add.
+git commit -m "message
+
+git merge dev-1
+git branch
+git checkout dev-2
+git checkout master
+git merge dev-2
+
+git branch -d "FILENAME"
