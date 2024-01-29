@@ -1,0 +1,7 @@
+git status
+git add index.html
+git rm --cached index.html
+git commit -m "Initial Commit"
+git log
+git log --oneline
+git commit -m "Secomd Commit"
