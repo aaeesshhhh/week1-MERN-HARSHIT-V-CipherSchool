@@ -1,0 +1,9 @@
+git config --global user.name "Ayush Saini"
+git config --global user.email "ayush242003@gmail.com"
+
+git init
+git add README.md
+git commit -m "Initial Commit"
+git branch -M main
+git remote add origin https://github.com/aaeesshhhh/week1-MERN-HARSHIT-V-CipherSchool.git
+git push -u origin main
