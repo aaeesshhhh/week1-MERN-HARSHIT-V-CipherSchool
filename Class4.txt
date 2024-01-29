@@ -1,0 +1,5 @@
+git revert
+git revert "ID"
+git reset "ID"
+git checkout -b BRANCH_NAME
+git checkout BRANCH_NAME
